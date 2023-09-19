@@ -52,8 +52,7 @@ as follows:**
 
 Use the functions from the class activities to print the bit pattern of the
 values input to and returned from the scramble function to verify its
-correctness. (Copy your `binary` function from data activity 1 or even better,
-copy the whole file hex.c into this workspace and add it to your Makefile)
+correctness.
 
 Once you are fairly certain that you have it correct, then use `assert` calls
 to verify that the returned value is what you expect for the test cases that
