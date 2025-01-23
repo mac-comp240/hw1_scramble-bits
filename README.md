@@ -59,3 +59,13 @@ to verify that the returned value is what you expect for the test cases that
 you devise. **You must have a range of tests that are thorough enough to insure
 the correctness of your function.** Learning how to do this is important and is
 a significant part of your grade for this problem.
+
+When you have completed the **code** for this assignment, make sure to complete the **report** 
+before final submission. Submit your report in a new file called `TURNIN.md`. Your report should include:
+
+* A list of known bugs or issues in the code.
+    * Give as much detail as necessary for a grader to understand the issue! Do not write only that something does not work.
+* What challenges you faced while completing the assignment.
+    * Reflect on the experience of doing this work. What were some of the sticking points? Did you get help? How did you solve them?
+* What you learned through completing this assignment.
+    * Reflect on your learning. Did the assignment illustrate any course concepts or build on what you practiced in the activities? Is there anything that you understand better because of this homework?
